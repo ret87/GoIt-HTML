@@ -7,41 +7,45 @@ body{
 }
 .box{
   width: 562px;
-  height: 800px;
+  height: 100%;
   margin: auto;
   background-color: #FFF;
   box-shadow: 0 0 10px 1px rgba(209,209,209,0.75);
 }
+
 .box1{
-  padding-top: 15px;
+  padding-top: 1px;
   font-size: 21px;
   font-weight: bold;
   text-align: center;
 }
+
+.main{
+	font-size: 17px;
+	margin-left: 60px;
+	margin-right: 60px;
+	}
+
 .box2 p{
-  margin-top: 10px;
-  margin-bottom: 0px;
-  margin-left: 60px;
-  font-size: 17px;
+  margin: 0 auto; 
 }
+
 .box3 p{
-  margin-top: 0px;
-  margin-bottom: 10px;
-  margin-left: 60px;
-  font-size: 17px;
-}
+  margin: 0 auto; 
+  margin-bottom: 15px;
+ }
+ 
 .box4{
-  margin-left: 60px;
-  font-size: 17px;
-  padding-top: 5px;
-  line-height: 1.5;
+  margin: 0 auto; 
 }
+
 ul{
   padding: 0;
   margin-left: 25px;
   margin-top: 24px;
   line-height: 1.5;
 }
+
 hr{
-  margin: 0 50px 5px 50px;
+  margin: 0 auto;
 }
