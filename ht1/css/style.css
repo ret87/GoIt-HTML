@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "utf-8";
 /* CSS Document */
 
@@ -54,3 +55,56 @@ hr{
 
 
 
+=======
+@charset "utf-8";
+/* CSS Document */
+
+body{
+  margin: 0;
+  background: #EEE;
+}
+.box{
+  width: 562px;
+  height: 100%;
+  margin: auto;
+  background-color: #FFF;
+  box-shadow: 0 0 10px 1px rgba(209,209,209,0.75);
+}
+
+.box1{
+  padding-top: 1px;
+  font-size: 21px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main{
+	font-size: 17px;
+	margin-left: 60px;
+	margin-right: 60px;
+	}
+
+.box2 p{
+  margin: 0 auto; 
+}
+
+.box3 p{
+  margin: 0 auto; 
+  margin-bottom: 15px;
+ }
+ 
+.box4{
+  margin: 0 auto; 
+}
+
+ul{
+  padding: 0;
+  margin-left: 25px;
+  margin-top: 24px;
+  line-height: 1.5;
+}
+
+hr{
+  margin: 0 auto;
+}
+>>>>>>> 692f71db54fa33760ded8984ddc97f21ea569419
