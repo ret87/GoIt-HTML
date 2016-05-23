@@ -1,0 +1,181 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'gulp',
+1 verbose cli   '-g' ]
+2 info using npm@3.8.9
+3 info using node@v6.2.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData gulp
+8 silly fetchDirectoryPackageData gulp
+9 silly install normalizeTree
+10 silly loadCurrentTree Finishing
+11 silly loadIdealTree Starting
+12 silly install loadIdealTree
+13 silly cloneCurrentTree Starting
+14 silly install cloneCurrentTreeToIdealTree
+15 silly cloneCurrentTree Finishing
+16 silly loadShrinkwrap Starting
+17 silly install loadShrinkwrap
+18 silly loadShrinkwrap Finishing
+19 silly loadAllDepsIntoIdealTree Starting
+20 silly install loadAllDepsIntoIdealTree
+21 silly resolveWithNewModule gulp@1.0.0 checking installable status
+22 silly cache add args [ 'gulp', null ]
+23 verbose cache add spec gulp
+24 silly cache add parsed spec Result {
+24 silly cache add   raw: 'gulp',
+24 silly cache add   scope: null,
+24 silly cache add   name: null,
+24 silly cache add   rawSpec: 'gulp',
+24 silly cache add   spec: 'C:\\Users\\Артем\\goit\\gulp',
+24 silly cache add   type: 'directory' }
+25 verbose addLocalDirectory C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package.tgz not in flight; packing
+26 verbose correctMkdir C:\Users\Артем\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+27 info lifecycle gulp@1.0.0~prepublish: gulp@1.0.0
+28 silly lifecycle gulp@1.0.0~prepublish: no script for prepublish, continuing
+29 verbose tar pack [ 'C:\\Users\\Артем\\AppData\\Roaming\\npm-cache\\gulp\\1.0.0\\package.tgz',
+29 verbose tar pack   'C:\\Users\\Артем\\goit\\gulp' ]
+30 verbose tarball C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package.tgz
+31 verbose folder C:\Users\Артем\goit\gulp
+32 verbose addLocalTarball adding from inside cache C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package.tgz
+33 verbose correctMkdir C:\Users\Артем\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+34 silly cache afterAdd gulp@1.0.0
+35 verbose afterAdd C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package\package.json not in flight; writing
+36 verbose correctMkdir C:\Users\Артем\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+37 verbose afterAdd C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package\package.json written
+38 silly loadAllDepsIntoIdealTree Finishing
+39 silly idealTree:prePrune npm
+39 silly idealTree:prePrune `-- gulp@1.0.0
+40 silly loadIdealTree Finishing
+41 silly currentTree npm
+42 silly idealTree npm
+42 silly idealTree `-- gulp@1.0.0
+43 silly generateActionsToTake Starting
+44 silly install generateActionsToTake
+45 silly generateActionsToTake Finishing
+46 silly diffTrees action count 1
+47 silly diffTrees add gulp@1.0.0
+48 silly decomposeActions action count 8
+49 silly decomposeActions fetch gulp@1.0.0
+50 silly decomposeActions extract gulp@1.0.0
+51 silly decomposeActions test gulp@1.0.0
+52 silly decomposeActions preinstall gulp@1.0.0
+53 silly decomposeActions build gulp@1.0.0
+54 silly decomposeActions install gulp@1.0.0
+55 silly decomposeActions postinstall gulp@1.0.0
+56 silly decomposeActions finalize gulp@1.0.0
+57 silly executeActions Starting
+58 silly install executeActions
+59 silly doSerial global-install 0
+60 silly doParallel fetch 1
+61 verbose correctMkdir C:\Users\Артем\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+62 verbose lock using C:\Users\Артем\AppData\Roaming\npm-cache\_locks\staging-084ddfef11aefc93.lock for C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging
+63 silly doParallel extract 1
+64 silly extract gulp@1.0.0
+65 verbose unbuild node_modules\.staging\gulp-1264ab54
+66 silly gentlyRm C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54 is being purged from base C:\Users\Артем\AppData\Roaming\npm
+67 verbose gentlyRm don't care about contents; nuking C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+68 verbose tar unpack C:\Users\Артем\AppData\Roaming\npm-cache\gulp\1.0.0\package.tgz
+69 verbose tar unpacking to C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+70 silly gentlyRm C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54 is being purged
+71 verbose gentlyRm don't care about contents; nuking C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+72 silly gunzTarPerm modes [ '777', '666' ]
+73 silly gunzTarPerm extractEntry package.json
+74 silly gunzTarPerm extractEntry .npmignore
+75 silly gunzTarPerm extractEntry gulpfile.js
+76 silly gunzTarPerm extractEntry lint.yml
+77 silly gunzTarPerm extractEntry src/images/units1.jpg
+78 silly gunzTarPerm extractEntry src/images/units2.jpg
+79 silly gunzTarPerm extractEntry src/index.html
+80 silly gunzTarPerm extractEntry src/js/component.js
+81 silly gunzTarPerm extractEntry src/js/jquery.js
+82 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/desktop.scss
+83 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/desktopHD.scss
+84 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/desktopMega.scss
+85 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/desktopWide.scss
+86 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/main.scss
+87 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/phoneLandscape.scss
+88 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/phonePortrait.scss
+89 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/tabletLandscape.scss
+90 silly gunzTarPerm extractEntry src/sass/info/MediaQueries/tabletPortrait.scss
+91 silly gunzTarPerm extractEntry src/sass/info/desktop.scss
+92 silly gunzTarPerm extractEntry src/sass/info/main.scss
+93 silly gunzTarPerm extractEntry src/sass/info/mobile.scss
+94 silly gunzTarPerm extractEntry src/sass/info/variables.scss
+95 silly gunzTarPerm extractEntry src/sass/main.scss
+96 silly gunzTarPerm extractEntry src/sass/mq.scss
+97 silly gentlyRm C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54\node_modules is being purged
+98 verbose gentlyRm don't care about contents; nuking C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54\node_modules
+99 silly doParallel preinstall 1
+100 silly preinstall gulp@1.0.0 C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+101 info lifecycle gulp@1.0.0~preinstall: gulp@1.0.0
+102 silly lifecycle gulp@1.0.0~preinstall: no script for preinstall, continuing
+103 silly doReverseSerial remove 0
+104 silly doSerial move 0
+105 silly doSerial finalize 1
+106 silly finalize C:\Users\Артем\AppData\Roaming\npm\node_modules\gulp
+107 silly doSerial build 1
+108 silly build gulp@1.0.0
+109 info linkStuff gulp@1.0.0
+110 silly linkStuff gulp@1.0.0 has C:\Users\Артем\AppData\Roaming\npm\node_modules as its parent node_modules
+111 silly linkStuff gulp@1.0.0 is part of a global install
+112 silly linkStuff gulp@1.0.0 is installed into a global node_modules
+113 silly linkStuff gulp@1.0.0 is installed into the top-level global node_modules
+114 verbose linkBins gulp@1.0.0
+115 verbose linkMans gulp@1.0.0
+116 silly doSerial global-link 0
+117 silly doParallel update-linked 0
+118 silly doSerial install 1
+119 silly install gulp@1.0.0 C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+120 info lifecycle gulp@1.0.0~install: gulp@1.0.0
+121 silly lifecycle gulp@1.0.0~install: no script for install, continuing
+122 silly doSerial postinstall 1
+123 silly postinstall gulp@1.0.0 C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging\gulp-1264ab54
+124 info lifecycle gulp@1.0.0~postinstall: gulp@1.0.0
+125 verbose lifecycle gulp@1.0.0~postinstall: unsafe-perm in lifecycle true
+126 verbose lifecycle gulp@1.0.0~postinstall: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\Артем\AppData\Roaming\npm\node_modules\gulp\node_modules\.bin;C:\Users\Артем\AppData\Roaming\npm\node_modules\.bin;C:\Program Files\nodejs;C:\Users\Артем\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Артем\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Ruby23\bin;C:\Users\Артем\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+127 verbose lifecycle gulp@1.0.0~postinstall: CWD: C:\Users\Артем\AppData\Roaming\npm\node_modules\gulp
+128 silly lifecycle gulp@1.0.0~postinstall: Args: [ '/d /s /c', 'npm install -g gulp' ]
+129 silly lifecycle gulp@1.0.0~postinstall: Returned: code: 4294963214  signal: null
+130 info lifecycle gulp@1.0.0~postinstall: Failed to exec postinstall script
+131 verbose unlock done using C:\Users\Артем\AppData\Roaming\npm-cache\_locks\staging-084ddfef11aefc93.lock for C:\Users\Артем\AppData\Roaming\npm\node_modules\.staging
+132 silly rollbackFailedOptional Starting
+133 silly rollbackFailedOptional Finishing
+134 silly runTopLevelLifecycles Starting
+135 silly runTopLevelLifecycles Finishing
+136 silly install printInstalled
+137 verbose stack Error: gulp@1.0.0 postinstall: `npm install -g gulp`
+137 verbose stack Exit status 4294963214
+137 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:245:16)
+137 verbose stack     at emitTwo (events.js:106:13)
+137 verbose stack     at EventEmitter.emit (events.js:191:7)
+137 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+137 verbose stack     at emitTwo (events.js:106:13)
+137 verbose stack     at ChildProcess.emit (events.js:191:7)
+137 verbose stack     at maybeClose (internal/child_process.js:850:16)
+137 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+138 verbose pkgid gulp@1.0.0
+139 verbose cwd C:\Users\Артем\goit
+140 error Windows_NT 6.1.7601
+141 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "gulp" "-g"
+142 error node v6.2.0
+143 error npm  v3.8.9
+144 error code ELIFECYCLE
+145 error gulp@1.0.0 postinstall: `npm install -g gulp`
+145 error Exit status 4294963214
+146 error Failed at the gulp@1.0.0 postinstall script 'npm install -g gulp'.
+146 error Make sure you have the latest version of node.js and npm installed.
+146 error If you do, this is most likely a problem with the gulp package,
+146 error not with npm itself.
+146 error Tell the author that this fails on your system:
+146 error     npm install -g gulp
+146 error You can get information on how to open an issue for this project with:
+146 error     npm bugs gulp
+146 error Or if that isn't available, you can get their info via:
+146 error     npm owner ls gulp
+146 error There is likely additional logging output above.
+147 verbose exit [ 1, true ]
