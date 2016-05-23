@@ -32,7 +32,7 @@ position: relative;
 }
 .contacts{
   position: absolute;
-  right:30px;
+  right: 30px;
   top: 13px;
   color: #128aa7;
 }
@@ -44,25 +44,32 @@ position: relative;
   position: absolute;
   right: 30px;
   top: 110px;
-  width: 330px;
-  height: 63px;
-  font-size: 10px;
+  font-size: 0;
+  max-width: 400px;
+  margin: 0 auto;
+
 }
-.flag li{
-  display: inline-block;
+.flag {
+  display: block;
+  float: right;
+  width: 56px;
+  padding: 1px;
+  margin: 1px;
+  font-size: 10px;
   text-align: center;
-  padding-right: 9px;
 }
 .flag a{
   color: #128aa7;
 }
-.flag li span {
-  display: block;
+.flag img {
+  margin-bottom: 2px;
+  max-width: 100%;
 }
-.photo  {
+.photo{
+  overflow: hidden;
   width: 1000px;
-  height: 411px;
-  border-top: 1px solid #128aa7;
+  height: 237px;
+  border-top: 1px solid 128aa7;
 }
 .panel{
   height: 33px;
@@ -74,24 +81,37 @@ position: relative;
   display: inline-block;
   list-style: none;
 }
-.panel ul:after {
+.panel ul ::after{
+  content: ' ';	
   display: block;
-  content: ' ';
   clear: both;
   float: none;
 }
-.panel .menu {
+.panel .menu{
   display: flex;
   width: 100%;
+  height: 100%;
   justify-content: space-between;
 }
-.menu > li {
+
+.menu > li{
   flex: auto;
   float: none;
-  display: block;
   position: relative;
 }
-ul.menu > li > a {
+.menu1{
+  width: 129px;
+}
+.menu .menu2 >a{
+  text-align: left;
+}
+.menu .menu3 >a{
+  text-align: left;
+}
+.menu .menu4 >a{
+  text-align: left;
+}
+.menu > li > a{
   display: block;
   padding: 6px 10px;
   color: white;
@@ -103,58 +123,64 @@ ul.menu > li > a {
 .menu .submenu1 {
   display: none;
   position: absolute;
-  width: 150px;
-  top: 34px;
+  width: 100%;
+  top: 100%;
+  text-align: left;
   background-color: #373737;
   box-shadow: 0px 9px 12px 0px rgba(0,0,0,0.66);
   font-size: 14px;
+  border-top: 1px solid black;
 }
 .menu .submenu2 {
   display: none;
   position: absolute;
-  width: 120px;
-  top: 34px;
+  width: 100%;
+  top: 100%;
+  text-align: left;
   background-color: #373737;
   box-shadow: 0px 9px 12px 0px rgba(0,0,0,0.66);
   font-size: 14px;
+  border-top: 1px solid black;
 }
 .menu .submenu3 {
   display: none;
   position: absolute;
-  width: 135px;
-  top: 34px;
+  width: 100%;
+  top: 100%;
+  text-align: left;
   background-color: #373737;
   box-shadow: 0px 9px 12px 0px rgba(0,0,0,0.66);
   font-size: 14px;
+  border-top: 1px solid black;
 }
-ul.submenu1 > li > a {
+.submenu1 > li > a {
   text-decoration: none;
   color: white;
 }
-ul.submenu2 > li > a {
+.submenu2 > li > a {
   text-decoration: none;
   color: white;
 }
-ul.submenu3 > li > a {
+.submenu3 > li > a {
   text-decoration: none;
   color: white;
 }
-ul.submenu1 > li{
+.submenu1 > li{
   padding: 6px 10px;
 }
-ul.submenu2 > li{
+.submenu2 > li{
   padding: 6px 10px;
 }
-ul.submenu3 > li{
+.submenu3 > li{
   padding: 6px 10px;
 }
-ul.menu > li:hover > ul.submenu1 {
+.menu > li:hover > ul.submenu1 {
   display: block;
 }
-ul.menu > li:hover > ul.submenu2 {
+.menu > li:hover > ul.submenu2 {
   display: block;
 }
-ul.menu > li:hover > ul.submenu3 {
+.menu > li:hover > ul.submenu3 {
   display: block;
 }
 /*sidebar*/
