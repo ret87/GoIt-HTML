@@ -66,6 +66,7 @@ h1{
   height: 40px;
   border: 1px solid #c8c8c8;
   box-sizing: border-box;
+  
 }
 .item:hover{
   padding-left: 20px;
@@ -74,14 +75,14 @@ h1{
 .item > a{
   display: block;
   text-decoration: none;
-  color: black;
   margin: 10px 0 0 10px;
+  color: black;
   height: 100%;
 }
 .sidebar{
 	overflow: hidden;
 }
-.clearfix: after{
+.clearfix::after{
 	content: ' ';
 	clear: both;
 	display: block;
@@ -105,7 +106,7 @@ p{
   width: 96%;
   margin-top: 40px;
 }
-footer{
+.footer{
   margin-top: 60px;
   background: #e1e1e1;
   font-size: 14px;

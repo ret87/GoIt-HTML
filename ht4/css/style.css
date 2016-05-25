@@ -48,7 +48,6 @@ p5{
   margin-right: 35px;
 }
 .flag {
-  display: block;
   float: right;
   width: 56px;
   font-size: 10px;
@@ -74,14 +73,12 @@ p5{
   box-shadow: 0px 2px 8px 1px rgba(0,0,0,0.63);
 }
 .panel ul{
-  display: inline-block;
   list-style: none;
 }
-.panel ul ::after{
+.panel ul::after{
   content: ' ';	
   display: block;
   clear: both;
-  float: none;
 }
 .panel .menu{
   display: flex;
@@ -186,7 +183,6 @@ p5{
 }
 .block{
   text-align: center;
-  width: 1000px;
   font-size: 14px;
 }
 .block p{
