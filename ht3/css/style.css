@@ -23,15 +23,13 @@ h1{
   line-height: 2.5;
   background: linear-gradient(to top, #5d5d5d, #464545);
   color: white;
-  height: 40px;
-  font-size: 16px;
+  font-size: 0px;
 }
 .mainmenu li{
   display: inline-block;
-  Border-right: 1px solid rgba(0, 120, 201, 0);
-  border-left: 1px solid transparent;
-  border-right: 1px solid transparent;
-  
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  font-size: 16px;
 }
 .mainmenu li:hover  {
   background: linear-gradient(to top, #4a4a4a, #303030);
@@ -40,53 +38,50 @@ h1{
 }
 .mainmenu > Li > a{
   display: block;
-}
-.menu1{
-  width: 145px;
-  text-align: center;
-}
-.menu2{
-  width: 100px;
-  text-align: center;
-}
-.menu3{
-  width: 150px;
-  text-align: center;
-}
-.menu4{
-  width: 170px;
-  text-align: center;
-}
-.mainmenu a{
+  padding: 0 40px;
   text-decoration: none;
   color: white;
 }
-
-.item {
-  height: 40px;
+.mainmenu .active{
+  background: linear-gradient(to top, #4a4a4a, #303030);
+  box-shadow: 1px 0 0 0 #838383, -1px 0 0 0 #838383;
+}
+.item a{
+  width: 240px;
   border: 1px solid #c8c8c8;
   box-sizing: border-box;
 }
-.item:hover{
-  padding-left: 20px;
+.item a:hover{
+  padding-left: 40px;
   font-weight: 600;
   background-color: #f9f9f9;
 }
 .item > a{
-  display: block;
+  display: inline-block;
   text-decoration: none;
-  padding-left: 10px;
-  padding-top: 10px;
+  line-height: 40px;
+  padding-left: 25px;
   color: black;
-  height: 100%;
+}
+.nav .active{
+  width: 240px;
+  border: 1px solid #c8c8c8;
+  box-sizing: border-box;
+  font-weight: 600;
+  background-color: #f9f9f9;
+  display: inline-block;
+  text-decoration: none;
+  line-height: 40px;
+  padding-left: 40px;
+  color: black;
 }
 .sidebar{
-	overflow: hidden;
+  overflow: hidden;
 }
 .clearfix::after{
-	content: ' ';
-	clear: both;
-	display: block;
+  content: ' ';
+  clear: both;
+  display: block;
 }
 .nav{
   float: left; 	 
@@ -110,15 +105,11 @@ p{
 .footer{
   margin-top: 60px;
   background: #e1e1e1;
-  font-size: 14px;
+  font-size: 12px;
 }
 .footer li{
-  line-height: 2.8;
+  line-height: 3;
   display: inline-block;
-}
-.menu5{
-  width: 490px;
-  text-align: right;
 }
 span:hover{
   text-decoration: underline;
@@ -128,4 +119,26 @@ span:hover{
   text-decoration: none;
   color: black;
 }
-
+.menu11{
+  width: 145px;
+  text-align: center;
+}
+.menu12{
+  width: 100px;
+  text-align: center;
+}
+.menu13{
+  width: 150px;
+  text-align: center;
+}
+.menu14{
+  width: 170px;
+  text-align: center;
+}
+.menu15{
+  width: 490px;
+  text-align: right;
+}
+.footer .active{
+  text-decoration: underline;
+}
