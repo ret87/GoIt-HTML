@@ -35,8 +35,8 @@ h1{
 }
 .mainmenu li:hover  {
   background: linear-gradient(to top, #4a4a4a, #303030);
-  border-left: 1px solid #838383;
-  border-right: 1px solid #838383;
+  box-shadow: 0 0 1px;
+
 }
 .mainmenu > Li > a{
   display: block;
