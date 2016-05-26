@@ -1,15 +1,11 @@
 *{
   margin: 0;
   padding: 0;
-  }
-  
+}
 body{
   background: #EEE;
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
 .box{
   width: 1100px;
   padding: 50px 50px 60px 50px;
@@ -23,7 +19,6 @@ header{
 h1{
   margin-bottom: 20px;
 }
-
 .mainmenu {
   line-height: 2.5;
   background: linear-gradient(to top, #5d5d5d, #464545);
@@ -34,11 +29,14 @@ h1{
 .mainmenu li{
   display: inline-block;
   Border-right: 1px solid rgba(0, 120, 201, 0);
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
+  
 }
 .mainmenu li:hover  {
   background: linear-gradient(to top, #4a4a4a, #303030);
-  box-shadow: 0 0 1px;
-
+  border-left: 1px solid #838383;
+  border-right: 1px solid #838383;
 }
 .mainmenu > Li > a{
   display: block;
