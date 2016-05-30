@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue-Thin.eot');
+    src: url('../fonts/HelveticaNeue-Thin.woff') format('woff'),
+         url('../fonts/HelveticaNeue-Thin.ttf') format('truetype'),
+         url('../fonts/HelveticaNeue-Thin.svg') format('svg');
+     font-weight: 100;
+     font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue-ThinExt.eot');
+    src: local('☺'),
+         url('../fonts/HelveticaNeue-ThinExt.woff') format('woff'),
+         url('../fonts/HelveticaNeue-ThinExt.ttf') format('truetype'),
+         url('../fonts/HelveticaNeue-ThinExt.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue-ThinItalic.eot');
+    src: local('☺'),
+         url('../fonts/HelveticaNeue-ThinItalic.woff') format('woff'),
+         url('../fonts/HelveticaNeue-ThinItalic.ttf') format('truetype'),
+         url('../fonts/HelveticaNeue-ThinItalic.svg') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Helvetica Neue Cond';
+    src: url('../fonts/HelveticaNeue-ThinCond.eot');
+    src: local('☺'),
+         url('../fonts/HelveticaNeue-ThinCond.woff') format('woff'),
+         url('../fonts/HelveticaNeue-ThinCond.ttf') format('truetype'), 
+         url('../fonts/HelveticaNeue-ThinCond.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/helveticaneuecyr-bold-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyr-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/helveticaneuecyr-medium-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyr-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/helveticaneuecyr-roman-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyr-roman-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
