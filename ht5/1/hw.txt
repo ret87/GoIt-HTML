@@ -1,0 +1,12 @@
+css/style.css:9 [W] PropertySortOrder: Properties should be ordered height, background, background-color, -o-background-size, -webkit-background-size, background-size, font-family
+css/style.css:10 [W] Indentation: Line should be indented 4 spaces, but was indented 9 spaces
+css/style.css:11 [W] Indentation: Line should be indented 4 spaces, but was indented 12 spaces
+css/style.css:31 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:138 [W] SelectorFormat: Selector `OU` should be written in lowercase with hyphens
+css/style.css:171 [W] IdSelector: Avoid using id selectors
+css/style.css:171 [W] IdSelector: Avoid using id selectors
+css/style.css:171 [W] IdSelector: Avoid using id selectors
+css/style.css:171 [W] IdSelector: Avoid using id selectors
+css/style.css:171 [W] SelectorFormat: Selector `LastName` should be written in lowercase with hyphens
+css/style.css:171 [W] IdSelector: Avoid using id selectors
+
