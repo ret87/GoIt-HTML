@@ -1,0 +1,163 @@
+css/style.css:7 [W] PropertySortOrder: Properties should be ordered width, height, min-height, margin, background-color
+css/style.css:9 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:15 [W] PropertySortOrder: Properties should be ordered display, height, clear, content, visibility
+css/style.css:28 [W] SelectorFormat: Selector `phone_num` should be written in lowercase with hyphens
+css/style.css:29 [W] PropertySortOrder: Properties should be ordered display, position, top, width, height, padding-right, background-image, content
+css/style.css:36 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:43 [W] SelectorFormat: Selector `phone_num` should be written in lowercase with hyphens
+css/style.css:45 [W] StringQuotes: Prefer single quoted strings
+css/style.css:47 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:54 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:57 [W] PropertySortOrder: Properties should be ordered position, width, height, margin-left, float, -moz-border-radius, -webkit-border-radius, border-radius, background-image, font-family, font-size, -moz-box-shadow, -webkit-box-shadow, box-shadow
+css/style.css:60 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:60 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:60 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:61 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:61 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:61 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:62 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:62 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:62 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:72 [W] PropertySortOrder: Properties should be ordered display, position, top, width, height, margin, background-image, background-position, content
+css/style.css:78 [W] Shorthand: Shorthand form for property `margin` should be written more concisely as `5px 6px 0` instead of `5px 6px 0 6px`
+css/style.css:79 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:84 [W] PropertySortOrder: Properties should be ordered margin-top, margin-left, float
+css/style.css:86 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:91 [W] PropertySortOrder: Properties should be ordered position, top, width, height, margin-right, padding-left, color, font-family, font-size, line-height
+css/style.css:94 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:104 [W] PropertySortOrder: Properties should be ordered padding, float, color, font-family, font-size, line-height, text-decoration, text-shadow
+css/style.css:111 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:116 [W] SpaceAfterPropertyColon: Colon after property should be followed by one space
+css/style.css:117 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:119 [W] SelectorFormat: Selector `forget_pass` should be written in lowercase with hyphens
+css/style.css:120 [W] PropertySortOrder: Properties should be ordered display, height, margin-right, float, border-bottom, color, font-family, font-size, letter-spacing, line-height, text-decoration, text-shadow
+css/style.css:124 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:134 [W] SelectorFormat: Selector `forget_pass` should be written in lowercase with hyphens
+css/style.css:135 [W] BorderZero: `border: 0` is preferred over `border: none`
+css/style.css:139 [W] PropertySortOrder: Properties should be ordered display, position, top, left, width, height, background-color, content
+css/style.css:139 [W] StringQuotes: Prefer single quoted strings
+css/style.css:150 [W] PropertySortOrder: Properties should be ordered width, height, margin, float, border, -moz-border-radius, -webkit-border-radius, border-radius, background-color, box-shadow
+css/style.css:163 [W] PropertySortOrder: Properties should be ordered width, height, margin, float, background-image, background-position
+css/style.css:172 [W] PropertySortOrder: Properties should be ordered width, height, margin, float, background-image, background-position
+css/style.css:178 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:180 [W] PropertySortOrder: Properties should be ordered width, height, margin, float, background-image, background-position
+css/style.css:191 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:214 [W] PropertySortOrder: Properties should be ordered width, height, margin, border, -moz-border-radius, -webkit-border-radius, border-radius, background-image, -moz-box-shadow, -webkit-box-shadow, box-shadow
+css/style.css:217 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:217 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:217 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:219 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:219 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:219 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:220 [W] HexNotation: Color `#1C1F22` should be written as `#1c1f22`
+css/style.css:221 [W] HexNotation: Color `#1C1F22` should be written as `#1c1f22`
+css/style.css:222 [W] HexNotation: Color `#1C1F22` should be written as `#1c1f22`
+css/style.css:223 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:223 [W] HexNotation: Color `#1C1F22` should be written as `#1c1f22`
+css/style.css:226 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:227 [W] PropertySortOrder: Properties should be ordered display, height, padding-left, float, content
+css/style.css:227 [W] StringQuotes: Prefer single quoted strings
+css/style.css:234 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:239 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:243 [W] PropertySortOrder: Properties should be ordered color, font-family, font-size, line-height, text-decoration, text-transform
+css/style.css:248 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:252 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:256 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:261 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:266 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:271 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:271 [W] SelectorFormat: Selector `main_menu` should be written in lowercase with hyphens
+css/style.css:273 [W] PropertySortOrder: Properties should be ordered -moz-border-radius, -webkit-border-radius, border-radius, background-image, color
+css/style.css:284 [W] PropertySortOrder: Properties should be ordered margin, float, color, font-family, font-size, letter-spacing
+css/style.css:293 [W] PropertySortOrder: Properties should be ordered display, top, width, height, margin, float, background-image, background-position, content
+css/style.css:300 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:304 [W] SelectorFormat: Selector `busket_num` should be written in lowercase with hyphens
+css/style.css:305 [W] PropertySortOrder: Properties should be ordered margin-left, color, font-size, font-weight, letter-spacing, line-height
+css/style.css:310 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:313 [W] SelectorFormat: Selector `busket_sum` should be written in lowercase with hyphens
+css/style.css:321 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:325 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:332 [W] PropertySortOrder: Properties should be ordered width, float
+css/style.css:338 [W] PropertySortOrder: Properties should be ordered display, width, height, margin, float, background-image, background-position, content
+css/style.css:344 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:346 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:349 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:354 [W] PropertySortOrder: Properties should be ordered width, height, margin, border, -moz-border-radius, -webkit-border-radius, border-radius, color, font-family, font-size, letter-spacing, line-height, -moz-box-shadow, -webkit-box-shadow, box-shadow
+css/style.css:357 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:357 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:357 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:358 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:358 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:358 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:359 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:359 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:359 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:368 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:376 [W] PropertySortOrder: Properties should be ordered width, height, margin-left, border, -moz-border-radius, -webkit-border-radius, border-radius, color, font-family, font-size, line-height
+css/style.css:386 [W] PropertySortOrder: Properties should be ordered display, width, height, margin, float, background-image, background-position, content
+css/style.css:392 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:394 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:398 [W] TrailingSemicolon: Declaration should be terminated by a semicolon
+css/style.css:398 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:398 [W] SpaceAfterPropertyColon: Colon after property should be followed by one space
+css/style.css:406 [W] PropertySortOrder: Properties should be ordered margin-left, color, font-family, font-size, letter-spacing, line-height, text-decoration
+css/style.css:415 [W] PropertySortOrder: Properties should be ordered font-family, font-size, font-style, font-weight, letter-spacing, line-height, text-decoration
+css/style.css:416 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:418 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:420 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:430 [W] PropertySortOrder: Properties should be ordered width, height, margin, float, -moz-border-radius, -webkit-border-radius, border-radius, background-color, background-image, -moz-background-clip, box-sizing
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:435 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:436 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:437 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:438 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:453 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:458 [W] SelectorFormat: Selector `tovar_img` should be written in lowercase with hyphens
+css/style.css:459 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:466 [W] LeadingZero: `0.5` should be written without a leading zero as `.5`
+css/style.css:469 [W] SelectorFormat: Selector `tovar_img` should be written in lowercase with hyphens
+css/style.css:473 [W] PropertySortOrder: Properties should be ordered width, height, border, -moz-border-radius, -webkit-border-radius, border-radius, background-color, cursor
+css/style.css:480 [W] SelectorFormat: Selector `tovar_img` should be written in lowercase with hyphens
+css/style.css:491 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:500 [W] PropertySortOrder: Properties should be ordered width, float
+css/style.css:517 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:531 [W] QualifyingElement: Avoid qualifying attribute selectors with an element.
+css/style.css:535 [W] QualifyingElement: Avoid qualifying attribute selectors with an element.
+css/style.css:540 [W] PropertySortOrder: Properties should be ordered width, height, margin, border, -moz-border-radius, -webkit-border-radius, border-radius, background-image, color, font-family, font-size, line-height, box-shadow, cursor
+css/style.css:554 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:561 [W] PropertySortOrder: Properties should be ordered display, height
+css/style.css:563 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:570 [W] PropertySortOrder: Properties should be ordered width, height, margin, background-image, background-position
+css/style.css:572 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:578 [W] PropertySortOrder: Properties should be ordered width, height, margin, background-image, background-position
+css/style.css:580 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:591 [W] HexNotation: Color `#213A4D` should be written as `#213a4d`
+css/style.css:605 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `0 14px` instead of `0 14px 0 14px`
+css/style.css:606 [W] HexNotation: Color `#BEC6C9` should be written as `#bec6c9`
+css/style.css:614 [W] HexNotation: Color `#52ABCB` should be written as `#52abcb`
+css/style.css:625 [W] HexNotation: Color `#7F4740` should be written as `#7f4740`
+css/style.css:627 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:627 [W] LeadingZero: `0.3` should be written without a leading zero as `.3`
+

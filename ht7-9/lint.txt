@@ -1,0 +1,475 @@
+No such file or directory @ rb_sysopen - lint.yml
+css/style.css:1 [W] SingleLinePerSelector: Each selector in a comma sequence should be on its own single line
+css/style.css:3 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:5 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:5 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:6 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:7 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:9 [W] PropertySortOrder: Properties should be ordered display, height, clear, content, visibility
+css/style.css:17 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:18 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:19 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:19 [W] PropertySpelling: Unknown property widht
+css/style.css:20 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:23 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:24 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:25 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:26 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:26 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:27 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:30 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:31 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:32 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:33 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:34 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:36 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:37 [W] SpaceAroundOperator: `24px/28px` should be written with a single space on each side of the operator: `24px / 28px`
+css/style.css:39 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:39 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:39 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:40 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:41 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:42 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:43 [W] PropertySortOrder: Properties should be ordered margin, padding-right, padding-left
+css/style.css:45 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:46 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:46 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:48 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:49 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:49 [W] SelectorFormat: Selector `menu__link--selected` should be written in lowercase with hyphens
+css/style.css:59 [W] LeadingZero: `0.2` should be written without a leading zero as `.2`
+css/style.css:60 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:64 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:65 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:66 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:68 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:69 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:72 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:73 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:74 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:74 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:78 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:78 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:78 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:79 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:80 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:82 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:85 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:86 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:87 [W] PropertySortOrder: Properties should be ordered margin-left, padding-top, color, font, letter-spacing, text-shadow
+css/style.css:88 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:91 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:91 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:91 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:92 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:94 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:96 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:98 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:99 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:104 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:104 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:104 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:105 [W] PropertySortOrder: Properties should be ordered display, width, height, border-radius, background, cursor, -moz-box-sizing, -webkit-box-sizing, box-sizing
+css/style.css:106 [W] Indentation: Line should be indented 4 spaces, but was indented 7 spaces
+css/style.css:107 [W] Indentation: Line should be indented 4 spaces, but was indented 12 spaces
+css/style.css:109 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:110 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:110 [W] SelectorFormat: Selector `scroll__button--selected` should be written in lowercase with hyphens
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:113 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:113 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:113 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:122 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:123 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:127 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:128 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:132 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:133 [W] SelectorFormat: Selector `article__icon` should be written in lowercase with hyphens
+css/style.css:139 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:140 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:141 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:142 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:142 [W] SelectorFormat: Selector `article__icon--said` should be written in lowercase with hyphens
+css/style.css:144 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:147 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:148 [W] SelectorFormat: Selector `article__icon--music` should be written in lowercase with hyphens
+css/style.css:150 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:151 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:152 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:153 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:158 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:159 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:164 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:165 [W] SelectorFormat: Selector `article__title` should be written in lowercase with hyphens
+css/style.css:170 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:170 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:170 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:171 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:172 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:180 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:181 [W] SelectorFormat: Selector `article__link--active` should be written in lowercase with hyphens
+css/style.css:181 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:183 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:183 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:183 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:184 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:185 [W] SelectorFormat: Selector `article__link--active` should be written in lowercase with hyphens
+css/style.css:186 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:194 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:195 [W] HexNotation: Color `#F9F9F9` should be written as `#f9f9f9`
+css/style.css:196 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:201 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:209 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:209 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:209 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:210 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:210 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:210 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:211 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:211 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:211 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:213 [W] Indentation: Line should be indented 4 spaces, but was indented 7 spaces
+css/style.css:214 [W] Indentation: Line should be indented 4 spaces, but was indented 12 spaces
+css/style.css:215 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:217 [W] PropertySortOrder: Properties should be ordered position, top, left, width, height, border, border-top, border-right-width, border-left-width, content
+css/style.css:217 [W] StringQuotes: Prefer single quoted strings
+css/style.css:225 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:227 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:228 [W] SelectorFormat: Selector `feedback__user-avatar` should be written in lowercase with hyphens
+css/style.css:232 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:233 [W] SelectorFormat: Selector `feedback__title` should be written in lowercase with hyphens
+css/style.css:238 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:239 [W] SelectorFormat: Selector `feedback__title--color` should be written in lowercase with hyphens
+css/style.css:241 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:242 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:247 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:250 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:251 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:254 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:255 [W] SelectorDepth: Selector should have depth of applicability no greater than 3, but was 4
+css/style.css:255 [W] SelectorFormat: Selector `scroll__button--selected` should be written in lowercase with hyphens
+css/style.css:255 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:260 [W] PropertySortOrder: Properties should be ordered display, width, height, margin, border-radius, background, filter
+css/style.css:261 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:261 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:262 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:262 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:262 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:262 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:263 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:263 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:263 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:263 [W] DuplicateProperty: Property `background` already defined on line 260
+css/style.css:263 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:264 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:264 [W] SpaceBetweenParens: Expected 0 spaces after `(` instead of ` `
+css/style.css:264 [W] SpaceBetweenParens: Expected 0 spaces before `)` instead of ` `
+css/style.css:266 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:267 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:274 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:275 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:282 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:283 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:283 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:283 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:285 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:286 [W] SelectorFormat: Selector `blog__topic__picture` should be written in lowercase with hyphens
+css/style.css:290 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:291 [W] SelectorFormat: Selector `blog__topic__title` should be written in lowercase with hyphens
+css/style.css:299 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:300 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:304 [W] PropertySortOrder: Properties should be ordered margin-top, margin-right, color, letter-spacing, text-shadow
+css/style.css:306 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:307 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:315 [W] HexNotation: Color `#F9F9F9` should be written as `#f9f9f9`
+css/style.css:316 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:319 [W] PropertySortOrder: Properties should be ordered display, flex-flow, align-items, justify-content, width, height
+css/style.css:330 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:332 [W] HexNotation: Color `#ECECEC` should be written as `#ececec`
+css/style.css:334 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:336 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:337 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:340 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:347 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:349 [W] PropertySortOrder: Properties should be ordered letter-spacing, text-transform
+css/style.css:351 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:352 [W] SelectorFormat: Selector `history__logo` should be written in lowercase with hyphens
+css/style.css:355 [W] PropertySortOrder: Properties should be ordered color, font, letter-spacing, text-shadow
+css/style.css:357 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:358 [W] SelectorFormat: Selector `history__logo` should be written in lowercase with hyphens
+css/style.css:360 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:363 [W] TrailingSemicolon: Declaration should be terminated by a single semicolon
+css/style.css:365 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:365 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:370 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:373 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:378 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:380 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:381 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:385 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:386 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:387 [W] PropertySortOrder: Properties should be ordered margin-right, font-size
+css/style.css:389 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:394 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:395 [W] SelectorFormat: Selector `autor__link` should be written in lowercase with hyphens
+css/style.css:400 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:401 [W] SelectorFormat: Selector `autor__link` should be written in lowercase with hyphens
+css/style.css:402 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:403 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:407 [W] PropertySortOrder: Properties should be ordered position, right, bottom, padding, color, text-align, content, opacity, z-index
+css/style.css:408 [W] StringQuotes: Prefer single quoted strings
+css/style.css:410 [W] LeadingZero: `0.7` should be written without a leading zero as `.7`
+css/style.css:411 [W] LeadingZero: `0.5` should be written without a leading zero as `.5`
+css/style.css:416 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:419 [W] ColorKeyword: Color `orange` should be written in hexadecimal form as `#ffa500`
+css/style.css:420 [W] StringQuotes: Prefer single quoted strings
+css/style.css:422 [W] EmptyLineBetweenBlocks: @media declaration should be followed by an empty line
+css/style.css:423 [W] EmptyLineBetweenBlocks: @media declaration should be preceded by an empty line
+css/style.css:425 [W] ColorKeyword: Color `red` should be written in hexadecimal form as `#ff0000`
+css/style.css:426 [W] StringQuotes: Prefer single quoted strings
+css/style.css:428 [W] EmptyLineBetweenBlocks: @media declaration should be followed by an empty line
+css/style.css:429 [W] Indentation: Line should be indented 0 spaces, but was indented 1 spaces
+css/style.css:429 [W] EmptyLineBetweenBlocks: @media declaration should be preceded by an empty line
+css/style.css:432 [W] StringQuotes: Prefer single quoted strings
+css/style.css:434 [W] EmptyLineBetweenBlocks: @media declaration should be followed by an empty line
+css/style.css:435 [W] EmptyLineBetweenBlocks: @media declaration should be preceded by an empty line
+css/style.css:437 [W] ColorKeyword: Color `green` should be written in hexadecimal form as `#008000`
+css/style.css:438 [W] StringQuotes: Prefer single quoted strings
+css/style.css:445 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:447 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:450 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:451 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:452 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:454 [W] PropertySortOrder: Properties should be ordered display, margin-bottom, margin-left
+css/style.css:456 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:456 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:459 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:459 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:460 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:462 [W] PropertySortOrder: Properties should be ordered margin, padding-right, padding-left
+css/style.css:464 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:464 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:467 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:467 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:468 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:469 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:471 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:472 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:477 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:478 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:481 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:482 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:487 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:488 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:492 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:498 [W] SelectorFormat: Selector `article__icon` should be written in lowercase with hyphens
+css/style.css:500 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:501 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:502 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:505 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:507 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:508 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:510 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:511 [W] SelectorFormat: Selector `article__title` should be written in lowercase with hyphens
+css/style.css:513 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:514 [W] Indentation: Line should be indented 4 spaces, but was indented 5 spaces
+css/style.css:514 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:515 [W] PropertySortOrder: Properties should be ordered height, margin-top, overflow
+css/style.css:518 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:519 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:522 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:526 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:536 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:540 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:541 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:545 [W] SelectorFormat: Selector `feedback__title--color` should be written in lowercase with hyphens
+css/style.css:547 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:548 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:551 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:551 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:554 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:557 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:563 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:566 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:567 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:571 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:572 [W] SelectorFormat: Selector `blog__topic__picture` should be written in lowercase with hyphens
+css/style.css:574 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:575 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:575 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:575 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:577 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:578 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:589 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:591 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:594 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:597 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:602 [W] PropertySortOrder: Properties should be ordered width, height, margin-top, margin-right, margin-left
+css/style.css:604 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:607 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:615 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:616 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:616 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:618 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:621 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:627 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:628 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:630 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:634 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:635 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:637 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:645 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:646 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:649 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:650 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:653 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:653 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:653 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:653 [W] PropertySortOrder: Properties should be ordered display, padding, border, border-top, border-radius
+css/style.css:656 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:657 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:660 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:661 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:661 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:667 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:667 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:668 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:668 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:670 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:671 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:671 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:675 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:676 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:680 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:681 [W] SelectorFormat: Selector `menu__link--selected` should be written in lowercase with hyphens
+css/style.css:685 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:686 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:690 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:694 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:695 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:696 [W] PropertySortOrder: Properties should be ordered height, margin
+css/style.css:696 [W] Shorthand: Shorthand form for property `margin` should be written more concisely as `-9px 0 0` instead of `-9px 0 0 0`
+css/style.css:698 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:699 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:702 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:703 [W] Indentation: Line should be indented 4 spaces, but was indented 5 spaces
+css/style.css:703 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:705 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:706 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:706 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:707 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:709 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:710 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:712 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:720 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:721 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:724 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:725 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:728 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:729 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:731 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:732 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:732 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:734 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:735 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:743 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `70px 0 0` instead of `70px 0 0 0`
+css/style.css:744 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:750 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:751 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:752 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:754 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:755 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:757 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:758 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:761 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:763 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:770 [W] PropertySortOrder: Properties should be ordered width, margin-left, padding
+css/style.css:770 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `57px 0 50px` instead of `57px 0 50px 0`
+css/style.css:772 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:773 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:776 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:780 [W] PropertySortOrder: Properties should be ordered display, height
+css/style.css:782 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:785 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:788 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:791 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:794 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:797 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:800 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:804 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:809 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:815 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:818 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:822 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:823 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:825 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:826 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:826 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:828 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:829 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:830 [W] PropertySortOrder: Properties should be ordered margin, padding-top, float
+css/style.css:840 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:843 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:846 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:847 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:849 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:850 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:853 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:853 [W] PropertySortOrder: Properties should be ordered width, height, margin, padding
+css/style.css:855 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:857 [W] PropertySortOrder: Properties should be ordered width, margin, float
+css/style.css:860 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:866 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:867 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:868 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:869 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:871 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:872 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:873 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:873 [W] PropertySortOrder: Properties should be ordered height, margin-top, overflow
+css/style.css:876 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:877 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:880 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:881 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:892 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:893 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:894 [W] PropertySortOrder: Properties should be ordered margin-bottom, margin-left, font-size
+css/style.css:897 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:898 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:900 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:901 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:905 [W] PropertySortOrder: Properties should be ordered width, height, padding-top, font-size, letter-spacing, overflow
+css/style.css:906 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:907 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:908 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:909 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:909 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:911 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:914 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:916 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:921 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `92px 0 50px` instead of `92px 0 50px 0`
+css/style.css:923 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:925 [W] Indentation: Line should be indented 8 spaces, but was indented 9 spaces
+css/style.css:926 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:933 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:934 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:938 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:939 [W] SelectorFormat: Selector `blog__topic__content` should be written in lowercase with hyphens
+css/style.css:941 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:942 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:943 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:944 [W] Shorthand: Shorthand form for property `margin` should be written more concisely as `11px 0 0` instead of `11px 0 0 0`
+css/style.css:950 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:952 [W] Indentation: Line should be indented 8 spaces, but was indented 7 spaces
+css/style.css:953 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:956 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:959 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:962 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:965 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:968 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:971 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:974 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
+css/style.css:978 [W] TrailingWhitespace: Line contains trailing whitespace
+
