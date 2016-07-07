@@ -473,3 +473,299 @@ css/style.css:971 [W] EmptyLineBetweenBlocks: Rule declaration should be followe
 css/style.css:974 [W] EmptyLineBetweenBlocks: Rule declaration should be followed by an empty line
 css/style.css:978 [W] TrailingWhitespace: Line contains trailing whitespace
 
+css/style.css:1 [W] SingleLinePerSelector: Each selector in a comma sequence should be on its own single line
+css/style.css:7 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:7 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:8 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:13 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:13 [W] PropertySortOrder: Properties should be ordered display, height, clear, content, visibility
+css/style.css:23 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:24 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:24 [W] PropertySortOrder: Properties should be ordered width, height
+css/style.css:25 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:30 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:33 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:34 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:34 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:41 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:42 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:45 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:47 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:48 [W] SpaceAroundOperator: `24px/28px` should be written with a single space on each side of the operator: `24px / 28px`
+css/style.css:50 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:50 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:50 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:53 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:54 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:55 [W] PropertySortOrder: Properties should be ordered margin, padding-right, padding-left
+css/style.css:59 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:59 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:63 [W] SelectorFormat: Selector `menu__link--selected` should be written in lowercase with hyphens
+css/style.css:63 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:82 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:83 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:87 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:92 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:93 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:93 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:97 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:97 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:97 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:100 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:102 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:107 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:108 [W] PropertySortOrder: Properties should be ordered margin-left, padding-top, color, font, letter-spacing, text-shadow
+css/style.css:109 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:112 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:113 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:118 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:122 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:127 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:127 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:127 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:128 [W] PropertySortOrder: Properties should be ordered display, width, height, border-radius, background, cursor, -moz-box-sizing, -webkit-box-sizing, box-sizing
+css/style.css:129 [W] Indentation: Line should be indented 4 spaces, but was indented 7 spaces
+css/style.css:130 [W] Indentation: Line should be indented 4 spaces, but was indented 12 spaces
+css/style.css:134 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:134 [W] SelectorFormat: Selector `scroll__button--selected` should be written in lowercase with hyphens
+css/style.css:136 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:136 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:136 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:137 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:137 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:137 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:149 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:155 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:161 [W] SelectorFormat: Selector `article__icon` should be written in lowercase with hyphens
+css/style.css:167 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:168 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:171 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:171 [W] SelectorFormat: Selector `article__icon--said` should be written in lowercase with hyphens
+css/style.css:173 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:178 [W] SelectorFormat: Selector `article__icon--music` should be written in lowercase with hyphens
+css/style.css:180 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:181 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:184 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:191 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:198 [W] SelectorFormat: Selector `article__title` should be written in lowercase with hyphens
+css/style.css:203 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:203 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:203 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:206 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:216 [W] SelectorFormat: Selector `article__link--active` should be written in lowercase with hyphens
+css/style.css:216 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:218 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:221 [W] SelectorFormat: Selector `article__link--active` should be written in lowercase with hyphens
+css/style.css:222 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:231 [W] UrlQuotes: URLs should be enclosed in quotes
+css/style.css:232 [W] HexNotation: Color `#F9F9F9` should be written as `#f9f9f9`
+css/style.css:248 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:248 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:248 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:249 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:249 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:249 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:250 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:250 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:250 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:252 [W] Indentation: Line should be indented 4 spaces, but was indented 7 spaces
+css/style.css:253 [W] Indentation: Line should be indented 4 spaces, but was indented 12 spaces
+css/style.css:257 [W] PropertySortOrder: Properties should be ordered position, top, left, width, height, border, border-top, border-right-width, border-left-width, content
+css/style.css:257 [W] StringQuotes: Prefer single quoted strings
+css/style.css:265 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:269 [W] SelectorFormat: Selector `feedback__user-avatar` should be written in lowercase with hyphens
+css/style.css:275 [W] SelectorFormat: Selector `feedback__title` should be written in lowercase with hyphens
+css/style.css:282 [W] SelectorFormat: Selector `feedback__title--color` should be written in lowercase with hyphens
+css/style.css:286 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:297 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:302 [W] SelectorFormat: Selector `scroll__button--selected` should be written in lowercase with hyphens
+css/style.css:302 [W] SelectorDepth: Selector should have depth of applicability no greater than 3, but was 4
+css/style.css:302 [W] SelectorFormat: Selector `scroll__button` should be written in lowercase with hyphens
+css/style.css:307 [W] PropertySortOrder: Properties should be ordered display, width, height, margin, border-radius, background, filter
+css/style.css:308 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:308 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:309 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:309 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:309 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:309 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:310 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:310 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:310 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:310 [W] DuplicateProperty: Property `background` already defined on line 307
+css/style.css:310 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:311 [W] SpaceBetweenParens: Expected 0 spaces after `(` instead of ` `
+css/style.css:311 [W] SpaceBetweenParens: Expected 0 spaces before `)` instead of ` `
+css/style.css:311 [W] HexLength: Color `#888888` should be written as `#888`
+css/style.css:313 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:322 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:333 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:333 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:333 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:337 [W] SelectorFormat: Selector `blog__topic__picture` should be written in lowercase with hyphens
+css/style.css:343 [W] SelectorFormat: Selector `blog__topic__title` should be written in lowercase with hyphens
+css/style.css:353 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:357 [W] PropertySortOrder: Properties should be ordered margin-top, margin-right, color, letter-spacing, text-shadow
+css/style.css:361 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:370 [W] HexNotation: Color `#F9F9F9` should be written as `#f9f9f9`
+css/style.css:375 [W] PropertySortOrder: Properties should be ordered display, flex-flow, align-items, justify-content, width, height
+css/style.css:387 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:389 [W] HexNotation: Color `#ECECEC` should be written as `#ececec`
+css/style.css:394 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:410 [W] PropertySortOrder: Properties should be ordered letter-spacing, text-transform
+css/style.css:414 [W] SelectorFormat: Selector `history__logo` should be written in lowercase with hyphens
+css/style.css:417 [W] PropertySortOrder: Properties should be ordered color, font, letter-spacing, text-shadow
+css/style.css:421 [W] SelectorFormat: Selector `history__logo` should be written in lowercase with hyphens
+css/style.css:427 [W] TrailingSemicolon: Declaration should be terminated by a single semicolon
+css/style.css:430 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:448 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:456 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:457 [W] PropertySortOrder: Properties should be ordered margin-right, font-size
+css/style.css:467 [W] SelectorFormat: Selector `autor__link` should be written in lowercase with hyphens
+css/style.css:474 [W] SelectorFormat: Selector `autor__link` should be written in lowercase with hyphens
+css/style.css:475 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:477 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:481 [W] PropertySortOrder: Properties should be ordered position, right, bottom, padding, color, text-align, content, opacity, z-index
+css/style.css:482 [W] StringQuotes: Prefer single quoted strings
+css/style.css:484 [W] LeadingZero: `0.7` should be written without a leading zero as `.7`
+css/style.css:485 [W] LeadingZero: `0.5` should be written without a leading zero as `.5`
+css/style.css:494 [W] ColorKeyword: Color `orange` should be written in hexadecimal form as `#ffa500`
+css/style.css:495 [W] StringQuotes: Prefer single quoted strings
+css/style.css:502 [W] ColorKeyword: Color `red` should be written in hexadecimal form as `#ff0000`
+css/style.css:503 [W] StringQuotes: Prefer single quoted strings
+css/style.css:508 [W] Indentation: Line should be indented 0 spaces, but was indented 1 spaces
+css/style.css:511 [W] StringQuotes: Prefer single quoted strings
+css/style.css:518 [W] ColorKeyword: Color `green` should be written in hexadecimal form as `#008000`
+css/style.css:519 [W] StringQuotes: Prefer single quoted strings
+css/style.css:528 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:534 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:537 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:539 [W] PropertySortOrder: Properties should be ordered display, margin-bottom, margin-left
+css/style.css:542 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:546 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:547 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:549 [W] PropertySortOrder: Properties should be ordered margin, padding-right, padding-left
+css/style.css:552 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:556 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:557 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:558 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:562 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:569 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:574 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:581 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:593 [W] SelectorFormat: Selector `article__icon` should be written in lowercase with hyphens
+css/style.css:597 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:598 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:602 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:606 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:610 [W] SelectorFormat: Selector `article__title` should be written in lowercase with hyphens
+css/style.css:614 [W] Indentation: Line should be indented 4 spaces, but was indented 5 spaces
+css/style.css:614 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:615 [W] PropertySortOrder: Properties should be ordered height, margin-top, overflow
+css/style.css:620 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:624 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:646 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:651 [W] SelectorFormat: Selector `feedback__title--color` should be written in lowercase with hyphens
+css/style.css:655 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:659 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:679 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:685 [W] SelectorFormat: Selector `blog__topic__picture` should be written in lowercase with hyphens
+css/style.css:689 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:689 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:689 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:693 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:706 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:722 [W] PropertySortOrder: Properties should be ordered width, height, margin-top, margin-right, margin-left
+css/style.css:738 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:739 [W] Indentation: Line should be indented 8 spaces, but was indented 4 spaces
+css/style.css:739 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:754 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:755 [W] SelectorFormat: Selector `top__wrapper` should be written in lowercase with hyphens
+css/style.css:764 [W] SelectorFormat: Selector `header__logo` should be written in lowercase with hyphens
+css/style.css:777 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:782 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:785 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:785 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:785 [W] SpaceAfterComma: Commas in function arguments should be followed by a single space
+css/style.css:785 [W] PropertySortOrder: Properties should be ordered display, padding, border, border-top, border-radius
+css/style.css:790 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:795 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:795 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:802 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:803 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:803 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:807 [W] SelectorFormat: Selector `menu__list` should be written in lowercase with hyphens
+css/style.css:807 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:813 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:819 [W] SelectorFormat: Selector `menu__link--selected` should be written in lowercase with hyphens
+css/style.css:825 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:836 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:837 [W] PropertySortOrder: Properties should be ordered height, margin
+css/style.css:837 [W] Shorthand: Shorthand form for property `margin` should be written more concisely as `-9px 0 0` instead of `-9px 0 0 0`
+css/style.css:841 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:846 [W] Indentation: Line should be indented 4 spaces, but was indented 5 spaces
+css/style.css:846 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:850 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:850 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:851 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:855 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:869 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:874 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:879 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:883 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:883 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:887 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:896 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `70px 0 0` instead of `70px 0 0 0`
+css/style.css:904 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:907 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:911 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:915 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:921 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:929 [W] PropertySortOrder: Properties should be ordered width, margin-left, padding
+css/style.css:929 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `57px 0 50px` instead of `57px 0 50px 0`
+css/style.css:933 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:937 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:941 [W] PropertySortOrder: Properties should be ordered display, height
+css/style.css:973 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:996 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:1000 [W] SelectorFormat: Selector `menu__link` should be written in lowercase with hyphens
+css/style.css:1000 [W] SelectorFormat: Selector `menu__item` should be written in lowercase with hyphens
+css/style.css:1004 [W] SpaceBeforeBrace: Opening curly brace `{` should be preceded by one space
+css/style.css:1005 [W] PropertySortOrder: Properties should be ordered margin, padding-top, float
+css/style.css:1027 [W] SelectorFormat: Selector `slider__photo` should be written in lowercase with hyphens
+css/style.css:1031 [W] SelectorFormat: Selector `slider__content` should be written in lowercase with hyphens
+css/style.css:1034 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:1034 [W] PropertySortOrder: Properties should be ordered width, height, margin, padding
+css/style.css:1039 [W] PropertySortOrder: Properties should be ordered width, margin, float
+css/style.css:1050 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:1051 [W] ZeroUnit: `0px` should be written without units as `0`
+css/style.css:1054 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:1058 [W] SelectorFormat: Selector `article__content` should be written in lowercase with hyphens
+css/style.css:1059 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:1059 [W] PropertySortOrder: Properties should be ordered height, margin-top, overflow
+css/style.css:1064 [W] SelectorFormat: Selector `article__link` should be written in lowercase with hyphens
+css/style.css:1069 [W] SelectorFormat: Selector `info__article` should be written in lowercase with hyphens
+css/style.css:1083 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:1084 [W] PropertySortOrder: Properties should be ordered margin-bottom, margin-left, font-size
+css/style.css:1089 [W] SelectorFormat: Selector `title__feedback` should be written in lowercase with hyphens
+css/style.css:1093 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:1097 [W] PropertySortOrder: Properties should be ordered width, height, padding-top, font-size, letter-spacing, overflow
+css/style.css:1098 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:1099 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:1102 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:1102 [W] SelectorFormat: Selector `feedback__content` should be written in lowercase with hyphens
+css/style.css:1108 [W] Indentation: Line should be indented with spaces, not tabs
+css/style.css:1111 [W] TrailingWhitespace: Line contains trailing whitespace
+css/style.css:1116 [W] Shorthand: Shorthand form for property `padding` should be written more concisely as `92px 0 50px` instead of `92px 0 50px 0`
+css/style.css:1121 [W] Indentation: Line should be indented 8 spaces, but was indented 9 spaces
+css/style.css:1132 [W] SelectorFormat: Selector `blog__topic` should be written in lowercase with hyphens
+css/style.css:1138 [W] SelectorFormat: Selector `blog__topic__content` should be written in lowercase with hyphens
+css/style.css:1142 [W] SelectorFormat: Selector `article__link--blog` should be written in lowercase with hyphens
+css/style.css:1143 [W] PropertySortOrder: Properties should be ordered margin, float
+css/style.css:1144 [W] Shorthand: Shorthand form for property `margin` should be written more concisely as `11px 0 0` instead of `11px 0 0 0`
+css/style.css:1154 [W] Indentation: Line should be indented 8 spaces, but was indented 7 spaces
+css/style.css:1190 [W] TrailingWhitespace: Line contains trailing whitespace
+
