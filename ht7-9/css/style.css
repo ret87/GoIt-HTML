@@ -2,27 +2,22 @@ html, body {
     height: 100%;
 }
 
-
 body {
 	background: url(../../ht7-9/img/bg-top.jpg) repeat-x center 0;
 	background-position-x: center;
 }
 
-
 .clearfix::after {
+    display: block;
+    height: 0;
 	clear: both;
     content: '';
     visibility: hidden;
-    display: block;
-    height: 0;
 }
 
-
-
-/* HEADER */
 .top__wrapper {
-	height: 846px;
 	width: 100%;
+	height: 846px;
 }
 
 header {
@@ -31,7 +26,7 @@ header {
 }
 
 .header__logo {
-	margin: 0px 0 0 -26px;
+	margin-left: -26px;
 }
 
 .menu--header {
@@ -45,15 +40,15 @@ header {
 .menu__link {
     display: block;
     color: #fff;    
-    font: 24px/28px'League Gothic', Arial, Helvetica, sans-serif;
+    font: 24px / 28px'League Gothic', Arial, Helvetica, sans-serif;
     text-decoration: none;
     text-shadow: 2px 2px 2px rgba(0,0,0,.4);
 }
 
 .menu--header .menu__link {
-    margin: 21px 0px 0 42px;
-    padding-left: 5px;
+    margin: 21px 0 0 42px;
     padding-right: 5px;
+    padding-left: 5px;
 }
 
 .menu--header .menu__item:last-child > .menu__link {
@@ -80,8 +75,8 @@ header {
 }
 
 .slider__photo {
-    float: right;
     margin: -16px 58px 0 0;
+    float: right;
 }
 
 .slider__content {
@@ -90,7 +85,7 @@ header {
 }
 
 .slider__content h1 {
- 	margin: 0px 0 0 -15px;
+    margin-left: -15px;
     color: #fefefe;
     font: 60px "League Gothic", Arial, Helvetica, sans-serif;
     letter-spacing: -.3px;
@@ -105,18 +100,17 @@ header {
 }
 
 .slider__content p {
+    margin-left: -15px;
     padding-top: 2px;
-	margin-left: -15px;
     color: #fff;
     font: 18px/24px "Open Sans", sans-serif;
-    text-shadow: 0 2px 2px rgba(0,0,0,.3);
 	letter-spacing: -.3px;
-
-}
+    text-shadow: 0 2px 2px rgba(0,0,0,.3);
+    }
 
 .scroll {
-    float: right;
     margin: 174px -176px 0 0;
+    float: right;
 }
 
 .scroll__button {
@@ -125,10 +119,10 @@ header {
     height: 17px;
     border-radius: 17px;
     background: rgba(0,0,0,.3);
+    cursor: pointer;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
-    cursor: pointer;
 }
 
 .scroll__button:hover,
@@ -165,10 +159,10 @@ header {
     margin-left: -37px;
     float: left;
     background: url(../img/sprite/sprite.png);
-    background-position: -0px -29px;
+    background-position: 0 -29px;
 }
 
-.article__icon--said  {
+.article__icon--said {
     width: 33px;
     height: 29px; 
     margin-top: 12px;
@@ -178,7 +172,7 @@ header {
 .article__icon--music {
     width: 29px;
     height: 31px; 
-    background-position: -0px -60px;
+    background-position: 0 -60px;
 }
 
 .article__content {
@@ -220,7 +214,6 @@ header {
 
 .article__link--active {
 	padding: 0 5px 0 1px;
-
 }
 
 
@@ -229,7 +222,7 @@ main {
     border-top: 1px solid #f9f9f9;
     border-bottom: 1px solid #e6e6e6;
     background: url(../img/upper-shadow.png) center -2px no-repeat;
-    background-color: #F9F9F9;
+    background-color: #f9f9f9;
 }
 
 .main-wrap {
@@ -245,8 +238,8 @@ main {
     padding: 25px 41px 0 38px;
     float: left;
     background-color: #fff;
-    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
     -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+       -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
     box-shadow: 0 1px 2px rgba(0,0,0,.05);
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
@@ -254,16 +247,15 @@ main {
 }
 
 .feedback::after {
-    content: "";
     position: relative;
     top: -21px;
     left: 323px;
     width: 0;
     height: 0;
     border: 0 solid transparent;
-    border-left-width: 26px;
-    border-right-width: 0px;
     border-top: 28px solid #fff;
+    border-left-width: 26px;
+    content: " ";
 }
 
 .feedback__user-avatar {
@@ -304,13 +296,13 @@ main {
     display: block;
     width: 75%;
     height: 75%;
-    background: #464646; /* Old browsers */
-    background: -moz-linear-gradient(top,  #888888 0%, #626262 23%, #464646 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #888888 0%,#626262 23%,#464646 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #888888 0%,#626262 23%,#464646 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888888', endColorstr='#464646',GradientType=0 ); /* IE6-9 */
+    margin: 2px;
     border-radius: 16px;
-    margin: 2px;    
+    background: #464646; /* Old browsers */
+    background: -moz-linear-gradient(top,  #888 0%, #626262 23%, #464646 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #888 0%,#626262 23%,#464646 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #888 0%,#626262 23%,#464646 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#888', endColorstr='#464646',GradientType=0 ); /* IE6-9 */
 }
 
 .blog {
@@ -367,16 +359,16 @@ main {
 .partners {
     border-top: 1px solid #fefefe;
     border-bottom: 1px solid #fefefe;
-    background-color: #F9F9F9;
+    background-color: #f9f9f9;
 }
 
 .conteiner--aside {
     display: flex;
-    justify-content: space-between;
     flex-flow: row;
     align-items: center;
-    height: 118px;
+    justify-content: space-between;
     width: 776px;
+    height: 118px;
 }
 
 
@@ -386,7 +378,7 @@ main {
     padding-top: 93px;
 	padding-left: 30px;
     border-top: 1px solid #dadada;
-    background-color: #ECECEC;
+    background-color: #ececec;
     box-sizing: border-box;
 }
 
@@ -407,15 +399,15 @@ main {
 }
 
 .title--categories {
-    text-transform: uppercase;
     letter-spacing: -.1px;
+    text-transform: uppercase;
 }
 
 .history__logo {
     color: #454545;
     font: 48px/51px "League Gothic", Arial, Helvetica, sans-serif;
-    text-shadow: 0 1px 0 #fff;
     letter-spacing: -.3px;
+    text-shadow: 0 1px 0 #fff;
 }
 
 .history__logo span {
@@ -454,8 +446,8 @@ footer {
 }
 
 .menu--footer .menu__link {
-    font-size: 20px;
     margin-right: 43px;
+    font-size: 20px;
 }
 
 .autor {
@@ -478,20 +470,20 @@ footer {
 
 /*BREAKPOINT SCREEN*/
 body::after {
-    color: #090070;
-    content: "";
-    right: 0;
-    opacity: 0.7;
-    padding: 0.5em 1em;
     position: fixed;
-    text-align: center;
+    right: 0;
     bottom: 0;
+    padding: .5em 1em;
+    color: #090070;
+    text-align: center;
+    content: " ";
+    opacity: .7;
     z-index: 99;
 }
 
 @media only screen and (max-width: 479px) {
     body::after {
-        background: orange;
+        background: #ffa500;
         content: "mobile";
     }
 
@@ -499,7 +491,7 @@ body::after {
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     body::after {
-        background: red;
+        background: #f00;
         content: "tablet-mini";
     }
 
@@ -515,7 +507,7 @@ body::after {
 
 @media only screen and (min-width: 960px) {
     body::after {
-        background: green;
+        background: #008000;
         content: "desktop";
     }
 
@@ -536,8 +528,8 @@ body::after {
 
     .header__logo {
         display: block;
-        margin-left: 20px;
         margin-bottom: 3px;
+        margin-left: 20px;
     }
     
     .menu--header {
@@ -546,8 +538,8 @@ body::after {
    
     .menu--header .menu__link {
         margin: 29px 27px 0 14px;
-        padding-left: 5px;
         padding-right: 5px;
+        padding-left: 5px;
     }
   
     .slider {
@@ -555,8 +547,8 @@ body::after {
     }
    
     .slider__photo {
-        float: right;
         margin: -23px 48px 0 0;
+        float: right;
     }
 
     .slider__content {
@@ -612,8 +604,8 @@ body::after {
     }
 
      .article__content p {
-        margin-top: 0;
         height: 145px;
+        margin-top: 0;
         overflow: hidden;
     }
 
@@ -634,7 +626,7 @@ body::after {
         padding-right: 18px;
         padding-bottom: 10px;
         -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
+           -moz-box-sizing: border-box;
         box-sizing: border-box;
     }
 
@@ -719,8 +711,8 @@ body::after {
         width: 173px;
         height: 199px;
         margin-top: 8px;
-        margin-left: 8px;
         margin-right: 8px;
+        margin-left: 8px;
     }
 
     .title--categories {
@@ -782,7 +774,7 @@ body::after {
     .menu--header .menu__item:first-child {
         display: block;
         padding: 10px 0 5px;
-        border-top: 6px solid rgba(0,0,0,0);
+        border-top: 6px solid;
         border: transparent;
         border-radius: 10px 10px 0 0;
     }
@@ -834,8 +826,8 @@ body::after {
     }
 
     .slider__photo {
-        margin: -9px 0 0 0;
         height: 304px;
+        margin: -9px 0 0 ;
     }
 
     .slider__content {
@@ -893,7 +885,7 @@ body::after {
     .main-wrap {
         height: auto;
         margin: 0 auto;
-        padding: 70px 0 0 0;
+        padding: 70px 0 0 ;
     }
 
     .feedback {
@@ -918,17 +910,20 @@ body::after {
     }
 
     .navi--feedback {
-        float: none;
         margin: 60px 0 0 125px;
+        float: none;
     }
 
 
     /*BLOG*/
     .blog {
         width: 361px;
-        padding: 57px 0 50px 0;
         margin-left: 83px;
+        padding: 57px 0 50px;
     }
+
+    .blog span {
+        display: none;}
 
     .article__link--blog {
         margin-bottom: 20px;
@@ -938,8 +933,8 @@ body::after {
 
     /*ASIDE*/
     .conteiner--aside {
-        height: 230px;
         display: block;
+        height: 230px;
     }
 
     .brand-logo {
@@ -1002,9 +997,9 @@ body::after {
     }
 
     .autor{
-        float: none;
         margin: 0 auto;
         padding-top: 105px;
+        float: none;
     }
 
 }
@@ -1031,14 +1026,14 @@ body::after {
     .slider__content {
         width: 201px;
         height: auto;
-        padding: 88px 0 0;  
         margin: 0 auto;
+        padding: 88px 0 0 15px;
     }
 
     .scroll {
-        float: none;
         width: 80px;
         margin: 0 auto;
+        float: none;
     }
 
     .navi--scroll {
@@ -1048,7 +1043,7 @@ body::after {
 
      /*INFO*/
     .info__article {
-        margin: 67px 0px 0 30px;
+        margin: 67px 0 0 30px;
     }
 
     .article__content {
@@ -1056,8 +1051,8 @@ body::after {
     }
 
     .article__content p {
-    	margin-top: 0;
         height: 71px;
+    	margin-top: 0;
         overflow: hidden;
     }
 
@@ -1081,9 +1076,9 @@ body::after {
     }
 
     .title__feedback {
+        margin-bottom: -4px;
         margin-left: -3px;
         font-size: 24px;
-        margin-bottom: -4px;
     }
 
     .title__feedback span {
@@ -1094,9 +1089,9 @@ body::after {
         width: 200px;
         height: 167px;
         padding-top: 0;
-        overflow: hidden;
 		font-size: 16px;
 		letter-spacing: .8px;
+        overflow: hidden;
     }
 
 	.feedback__content span {
@@ -1113,7 +1108,7 @@ body::after {
     .blog {
         width: 296px;
         margin: 0;
-        padding: 92px 0 50px 0;
+        padding: 92px 0 50px;
         float: left;
      }
 
@@ -1123,7 +1118,6 @@ body::after {
 
     .title--blog {
         width: 100%;
-        margin: 0;
         margin-bottom: 5px;
         padding: 0 0 0 19px;
         float: left;
@@ -1141,7 +1135,7 @@ body::after {
 
     .article__link--blog {
         float: right;
-        margin: 11px 0 0 0;
+        margin: 11px 0 0;
     }
 
 
